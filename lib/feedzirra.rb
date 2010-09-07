@@ -6,7 +6,6 @@ require 'curb'
 require 'sax-machine'
 require 'active_support/basic_object'
 require 'active_support/core_ext/object'
-require 'active_support/core_ext/time'
 
 require 'core_ext/date'
 
